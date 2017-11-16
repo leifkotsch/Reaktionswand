@@ -9,9 +9,9 @@
 #define color_pressed 0x00FF00
 #define times 20
 
-byte pins[] = { 3, 4, 5, 6, 7, 8, 9, 10, 11};
-byte active=255;
-byte activeOld=255;
+byte pins[] = {3, 4, 5, 6, 7, 8, 9, 10, 11};
+byte active = 255;
+byte activeOld = 255;
 byte anzahl = 0;
 boolean inGame;
 
